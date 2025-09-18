@@ -2,10 +2,10 @@
 
 [English](/README.md) | [Русский](/ru_README.md)
 
-3x-ui is really a user-friednly panel, especially for the average user, and doesn't require much configuration compared to others. However, this simplicity hides a critical security hole: encryption upon first launch, which is **NOT EXIST**
+3x-ui is really a user-friendly panel, especially for the average user, and doesn't require much configuration compared to others. However, this simplicity hides a critical security hole: encryption upon first launch, which is **DON'T EXIST**
 
 * **Of course, you can use**:
-    *  **Port Forwading**, which already makes the initial installation longer due to the need for it, and is simply not as user-friendly,
+    *  **Port Forwading**, which already makes the initial installation longer due to the need for it, and is simply not user-friendly,
 
     *  **UNSECURE LOGIN via http**, log in with your username and password, install certificates, change your login information, but in any case, a lot of initial data about what happened will be in your provider's logs, and most importantly, it's inconvenient and time-consuming.
 
@@ -34,4 +34,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/SubbyTwinkle/secure-x3-ui/securify.sh)
+
 ```
