@@ -27,7 +27,7 @@
 ## Установка вместе с самой последней версией
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh); bash <(curl -Ls https://raw.githubusercontent.com/SubbyTwinkle/secure-x3-ui/securify.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) && bash <(curl -Ls https://raw.githubusercontent.com/SubbyTwinkle/secure-x3-ui/securify.sh)
 ```
 
 ## Установка отдельно, уже после установки панели
@@ -36,4 +36,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 bash <(curl -Ls https://raw.githubusercontent.com/SubbyTwinkle/secure-x3-ui/securify.sh)
 
 ```
+
 
