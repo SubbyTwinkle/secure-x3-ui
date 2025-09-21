@@ -27,7 +27,7 @@ In either case, this solution closes this security hole, simplifies your life, s
 ## Install with the latest version
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh); bash <(curl -Ls https://raw.githubusercontent.com/SubbyTwinkle/secure-x3-ui/securify.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) && bash <(curl -Ls https://raw.githubusercontent.com/SubbyTwinkle/secure-x3-ui/securify.sh)
 ```
 
 ## Separate installation, after installing the panel
@@ -36,6 +36,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 bash <(curl -Ls https://raw.githubusercontent.com/SubbyTwinkle/secure-x3-ui/securify.sh)
 
 ```
+
 
 
 
